@@ -9,4 +9,8 @@ Hướng dẫn chạy chương trình:
     Đưa file `housing_data_cleaned_v3.csv` lên thư mục HDFS ( `/user/housing_data/`).
 4.  **Huấn luyện mô hình:**
     Mở terminal và chạy lệnh sau để huấn luyện trên Spark:
-    spark-submit train_test.py
+    `spark-submit train_test.py`
+Demo:
+    **web demo dự đoán giá nhà**
+    Chạy `app.py` tiếp đó  Mở terminal vào đường dẫn (vd: cd C:\Users\Cong Thanh\Desktop\python\Dữ liệu lớn):
+    `streamlit run app.py`
