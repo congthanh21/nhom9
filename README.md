@@ -9,4 +9,4 @@ Hướng dẫn chạy chương trình:
     Đưa file `housing_data_cleaned_v3.csv` lên thư mục HDFS ( `/user/housing_data/`).
 4.  **Huấn luyện mô hình:**
     Mở terminal và chạy lệnh sau để huấn luyện trên Spark:
-    spark-submit train_moel.py
+    spark-submit train_test.py
