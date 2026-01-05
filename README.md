@@ -10,7 +10,7 @@ Hướng dẫn chạy chương trình:
 4.  **Huấn luyện mô hình:**
     Mở terminal và chạy lệnh sau để huấn luyện trên Spark:
     `spark-submit train_test.py`
-Demo:
+5.  Demo:
     **web demo dự đoán giá nhà**
     Chạy `app.py` tiếp đó  Mở terminal vào đường dẫn (vd: cd C:\Users\Cong Thanh\Desktop\python\Dữ liệu lớn):
     `streamlit run app.py`
